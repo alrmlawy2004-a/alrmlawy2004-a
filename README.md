@@ -8,10 +8,10 @@ My field is **Intelligent Systems & Computer Engineering**. I explore software a
 
 | Project | What I explore |
 | --- | --- |
-| [Clinic Management CLI](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/java-applications/clinic-management-cli) | Role-based console workflows and file-based records in Java |
-| [Customer Churn Classification](https://github.com/alrmlawy2004-a/engineering-projects/blob/main/machine-learning/customer-churn.ipynb) | Logistic regression and decision trees on telecom customer data |
-| [Human Activity Recognition](https://github.com/alrmlawy2004-a/engineering-projects/blob/main/machine-learning/human-activity-recognition.ipynb) | PCA, LDA and support vector classification on sensor data |
-| [Wine Quality Classification](https://github.com/alrmlawy2004-a/engineering-projects/blob/main/pattern-recognition/wine-quality.ipynb) | Linear SVM and XGBoost comparisons |
+| [Clinic Management CLI](https://github.com/alrmlawy2004-a/clinic-management-cli) | Role-based console workflows and file-based records in Java |
+| [Customer Churn Classification](https://github.com/alrmlawy2004-a/customer-churn-classification) | Logistic regression and decision trees on telecom customer data |
+| [Human Activity Recognition](https://github.com/alrmlawy2004-a/human-activity-recognition) | PCA, LDA and support vector classification on sensor data |
+| [Wine Quality Classification](https://github.com/alrmlawy2004-a/wine-quality-classification) | Linear SVM and XGBoost comparisons |
 | [Storage & Reliability Experiments](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/data-systems) | File formats, Parquet partitions and a replicated-block simulation |
 | [Relational Store Database](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/databases) | Relationships, joins and aggregates in SQL |
 | [Web Interface Collection](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/web-interfaces) | Static layouts and visual composition with HTML and CSS |
