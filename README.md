@@ -2,7 +2,7 @@
 
 My field is **Intelligent Systems & Computer Engineering**. I explore software and intelligent systems through hands-on projects in Java, Python, machine learning, data analysis, databases, web interfaces, and networking.
 
-[View my portfolio](https://alaa-salim-al-ramlawi-portfolio.adhammr223.chatgpt.site)
+[View my portfolio](https://alrmlawy2004-a.github.io)
 
 ## My project work
 
