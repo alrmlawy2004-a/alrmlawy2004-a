@@ -12,9 +12,9 @@ My field is **Intelligent Systems & Computer Engineering**. I explore software a
 | [Customer Churn Classification](https://github.com/alrmlawy2004-a/customer-churn-classification) | Logistic regression and decision trees on telecom customer data |
 | [Human Activity Recognition](https://github.com/alrmlawy2004-a/human-activity-recognition) | PCA, LDA and support vector classification on sensor data |
 | [Wine Quality Classification](https://github.com/alrmlawy2004-a/wine-quality-classification) | Linear SVM and XGBoost comparisons |
-| [Storage & Reliability Experiments](https://github.com/alrmlawy2004-a/storage-reliability-experiments) | File formats, Parquet partitions and a replicated-block simulation |
-| [Relational Store Database](https://github.com/alrmlawy2004-a/relational-store-database) | Relationships, joins and aggregates in SQL |
-| [Web Interface Studies](https://github.com/alrmlawy2004-a/web-interface-studies) | Static layouts and visual composition with HTML and CSS |
+| [HDFS Block Loss Simulation](https://github.com/alrmlawy2004-a/hdfs-block-loss-simulation) | Replicated-block loss simulation |
+| [Relational Store Database](https://github.com/alrmlawy2004-a/engineering-projects/blob/main/databases/online-store.sql) | Relationships, joins and aggregates in SQL |
+| [Product Landing Page](https://github.com/alrmlawy2004-a/engineering-projects/tree/main/web-interfaces/product-landing-page) | Product-page layout with HTML and CSS |
 
 [Browse the complete project collection](https://github.com/alrmlawy2004-a/engineering-projects)
 
